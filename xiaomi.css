@@ -1,0 +1,301 @@
+.header{
+    width: 100%;
+    height: 40px;
+    background-color: #212121;
+}
+.intro{
+    margin-right: auto;
+    margin-left: auto;
+    float: left;
+    height: 40px;
+}
+.points{
+    padding-left: 30px;
+    padding-bottom: 40px;
+    display: inline-block;
+    list-style: none;
+    padding-top:15px; 
+    font-family: ProximaNova,Arial,Sans-serif;
+    font-weight: 400;
+    font-size: 11px;
+    padding: auto;
+}
+.link{
+    text-decoration: none;
+    color: #b0b0b0;
+}
+next{
+    width: 30%;
+    float: left;
+    margin-right: auto;
+    padding-left: 500px;
+    height: 40px;
+}
+.points2{
+    display: inline-block;
+    list-style: none;
+    padding-top: 15px; 
+    font-family: ProximaNova,Arial,Sans-serif;
+    font-weight: 400;
+    font-size: 11px;
+    padding-left: 30px;
+    height: 40px;
+    padding-bottom: 15px;
+
+}
+.rose{
+    padding-left: 550px;
+}
+.cart{
+    float: left;
+}
+body{
+    margin:0;
+}
+.list{
+    margin:0;
+    height: 40px;
+}
+.main{
+    width: 100%;
+    height: 80px;
+}
+.div1{
+    margin-left: 50px;
+    height: 80px;
+    margin-right: 50px;
+}
+.div2{
+    height: 80px;
+    width:56px;
+    float: left;
+    background-repeat: no-repeat;
+    padding-top: 10px;
+}
+.milogos{
+    height:55px;
+    width:56px;
+    background-size: 70px;
+}
+.div3{
+    height:80px;
+    width:900px;
+    float: left;
+}
+.searching{
+    height:40px;
+    width:206px;
+    float:left;
+    margin-top: 14px;
+}
+.click{
+    width: 100%;
+    background: 0 0;
+    border: none;
+    border-bottom: 1px solid;
+    outline: 0;
+    padding: 0 0 6px 10px;
+}
+.searchfield{
+    width:150px;
+    height: 20px;
+    margin-top:20px;
+}
+.first li{
+    display: inline-block;
+    list-style: none;
+    padding-left: 30px;
+    padding-top: 20px;
+}
+.divmain{
+    width:100%;
+    height:500px;
+    background-image:url("redmiimage1st.jpg");
+}
+.div4{
+    width:100%;
+    height:796px;
+}
+.div5{
+    width:1215px;
+    height: 230px;
+    margin-left: 50px;
+    margin-top: 16px;
+    margin-right:50px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 0px;
+}
+img{
+    width: 397px;
+    height: 230px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+.div6{
+    width:1211px;
+    height: 75px;
+    margin-right:50px;
+    margin-top: 3px;
+    margin-left: 510px;
+    padding-left: 25px;
+    padding-top:50px;
+    color: #616161;
+    font-size: 13px;
+}
+.picture{
+    width: 1211px;
+        height: 500px;
+        background:yellow;
+        margin-left: 50px;   
+}
+.firstdiv{
+    width:50%;
+    height:500px;
+    background-image: url("powerbanks.jpg");
+    float: left;
+}
+.earphonediv{
+    width:25%;
+    height:250px;
+    float: left;
+    background-image: url("Earphones.jpg");
+}
+.bagdiv{
+    width: 25%;
+    height: 250px;
+    float: left;
+    background-image: url("bags.png");
+}
+.watchdiv{
+    width: 50%;
+    height: 250px;
+    float:left;
+    background-image: url("watch.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.footer{
+    width: 100%;
+    height: 594px;
+    background: #212121;
+    float: left;
+}
+.footernav{
+    border-bottom: solid 1px;
+    border-color:#757575;
+    width: 100%;
+    height: 494px;
+   margin-top: 40px;
+   margin-bottom: 60px;
+    float:left;
+    padding-left:40px;
+    color:#b0b0b0
+}
+.footernav2{
+    width:1231px;
+    height: 439px;
+    margin-left:50px;
+    margin-right:50px;
+    margin-bottom: 59px;
+    float: left;
+    padding-top: 20px;
+}
+.support{
+    width: 172px;
+    height:395px;
+    margin-left: 20px;
+    float: left;
+    font-family: ProximaNova,Arial,Sans-serif;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 2;
+    color:#b0b0b0;
+}
+.shop{
+    width:172px;
+    height: 423.95px;
+    margin-left: 20px;
+    float: left;
+    font-family: ProximaNova,Arial,Sans-serif;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 2;
+    color:#b0b0b0;
+}
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    font-family: ProximaNova,Arial,Sans-serif;
+    color:#b0b0b0;
+}
+.retail{
+    width:172px;
+    height:102.99px;
+    float:left;
+    margin-left: 20px;
+    font-family: ProximaNova,Arial,Sans-serif;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 2;
+    color:#b0b0b0;
+}
+.about{
+    width:172px;
+    height: 423.95;
+    float:left;
+    margin-left: 20px;
+    font-family: ProximaNova,Arial,Sans-serif;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 2;
+    color:#b0b0b0;
+}
+.contact{
+    width:172px;
+    height: 103.99px;
+    float: left;
+    margin-left: 20px;
+    font-family: ProximaNova,Arial,Sans-serif;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 2;
+    color: #b0b0b0;
+}
+.chat{
+    width:296px;
+    height:109.97px;
+    float:right;
+    margin-top:-102px;
+    margin-left: 20px;
+    font-family: ProximaNova,Arial,Sans-serif;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 2;
+    color:#b0b0b0;
+}
+.chatting{
+    width:296px;
+    height: 35.99px;
+    float:left;
+    color:#b0b0b0;
+    margin-top:7px;
+    font-size: 11px;
+}
+.customersupport{
+    width:159.99px;
+    height: 39.99px;
+    margin-top:65px;
+    
+}
+.chatbutton{
+    width:159.99px;
+    height: 40px;
+    border:solid 1px white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right:20px;
+    padding-left: 20px;
+}
