@@ -51,6 +51,7 @@ next{
 }
 body{
     margin:0;
+    overflow-x: hidden;
 }
 .list{
     margin:0;
@@ -93,7 +94,6 @@ body{
     background: 0 0;
     border: none;
     border-bottom: 1px solid;
-    outline: 0;
     padding: 0 0 6px 10px;
 }
 .searchfield{
